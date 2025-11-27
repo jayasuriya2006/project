@@ -1,0 +1,63 @@
+  .in{
+   padding-left: 38%;
+   
+
+  }
+  .input,.dateinput{
+    width:200px;      
+    height:30px;       
+    padding:8px 12px; 
+    font-size:16px;   
+    border-radius:6px; 
+    border:none; 
+    cursor: pointer;
+  }
+  .add{
+    background-color:rgb(56, 231, 56);
+    width:130px;      
+    height:40px;
+     font-size: 16px;
+    border:none;
+    color:white;
+    border-radius:60px;
+    padding:10px 35px;
+    cursor: pointer;
+  }
+   
+ .row {
+  display:grid;
+  grid-template-columns: 1fr 200px 120px;
+  align-items:center;
+  padding:10px ;
+  background:#f7f7f7;
+  margin:5px 300px; /* center the whole row */
+  border-radius: 8px;
+}
+
+
+.task {
+  text-align: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  transition: max-width 0.ms ease;
+}
+.task:hover{
+  max-width: 1000px;   
+  overflow: visible;
+  white-space: normal;
+}
+.date {
+  font-size: 16px;
+  color: #000000;
+}
+
+.delete {
+  background-color: rgb(234, 85, 85);
+  border: none;
+  color: white;
+  padding: 10px 25px;
+  border-radius: 6px;
+  cursor: pointer;
+  border-radius: 60px;
+}
