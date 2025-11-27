@@ -1,41 +1,75 @@
-# Rock–Paper–Scissors 🎮
+# 🎯 Project Collection – Jayasuriya  
+A set of simple and clean web projects created using **HTML, CSS, and JavaScript**.  
+This repository currently includes:
+
+- 🎮 Rock–Paper–Scissors Game  
+- 📝 To-Do List Web App  
+
+---
+
+# 🎮 Rock–Paper–Scissors
 
 A simple Rock–Paper–Scissors game built using HTML, CSS, and JavaScript.
 
----
-
-## 📌 Features
+## 📌 Features  
 - Clean UI  
 - Random computer move  
-- Score saving using localStorage  
-- Reset button  
-- Works on desktop & mobile  
-
-
-
-
+- Score saved using `localStorage`  
+- Fully responsive  
+- Reset score option  
 
 ---
 
-## 🚀 How to Play
-1. Open **index.html** in a browser.  
+## 🚀 How to Play  
+1. Open **index.html**.  
 2. Choose Rock, Paper, or Scissors.  
-3. The computer chooses automatically.  
-4. Score updates after every round.  
-5. Click **Reset** to clear the score.
-
----
-## 🎮 Live Demo
-👉 Play here: https://jayasuriya2006.github.io/project/Rock%E2%80%93Paper%E2%80%93Scissors%20code/
+3. Computer selects randomly.  
+4. Score updates each round.  
+5. Click **Reset** to clear score.
 
 ---
 
-## 🛠 Technologies Used
+## 🎮 Live Demo  
+👉 Play here:  
+https://jayasuriya2006.github.io/project/Rock%E2%80%93Paper%E2%80%93Scissors%20code/
+
+---
+
+# 📝 To-Do List App
+
+A simple, fast, and clean To-Do List application built using HTML, CSS, and JavaScript.
+
+## 📌 Features  
+- Add new tasks  
+- Delete tasks  
+- Tasks stored using `localStorage`  
+- Responsive UI  
+- Clean input box and improved layout  
+
+---
+
+## 🚀 How to Use  
+1. Open **todo.html** (or `index.html` if used for GitHub Pages).  
+2. Type a task in the input box.  
+3. Click **Add** to save the task.  
+4. Click **Delete** to remove a task.  
+5. Tasks stay saved after refresh.
+
+---
+
+## 📝 Live Demo  
+(Add link here after upload)  
+https://jayasuriya2006.github.io/project/Simple_ToDo-page/
+
+---
+
+# 🛠 Technologies Used  
 - HTML  
 - CSS  
 - JavaScript  
 
 ---
 
-## ✨ Author
-**Jayasuriya k**
+# ✨ Author  
+**Jayasuriya K**  
+From Trichy – Passionate about coding and learning new technologies.
