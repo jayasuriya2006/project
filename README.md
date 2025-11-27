@@ -1,6 +1,5 @@
-# 🎯 Project Collection – Jayasuriya  
+# 🎯 Project Collection – Jayasuriya k 
 A set of simple and clean web projects created using **HTML, CSS, and JavaScript**.  
-This repository currently includes:
 
 - 🎮 Rock–Paper–Scissors Game  
 - 📝 To-Do List Web App  
@@ -58,7 +57,6 @@ A simple, fast, and clean To-Do List application built using HTML, CSS, and Java
 ---
 
 ## 📝 Live Demo  
-(Add link here after upload)  
 https://jayasuriya2006.github.io/project/Simple_ToDo-page/
 
 ---
