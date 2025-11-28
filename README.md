@@ -40,15 +40,14 @@ A simple, fast, and clean To-Do List application built using HTML, CSS, and Java
 
 ## 📌 Features  
 - Add new tasks  
-- Delete tasks  
-- Tasks stored using `localStorage`  
+- Delete tasks   
 - Responsive UI  
 - Clean input box and improved layout  
 
 ---
 
 ## 🚀 How to Use  
-1. Open **todo.html** (or `index.html` if used for GitHub Pages).  
+1. Open **index.html**.  
 2. Type a task in the input box.  
 3. Click **Add** to save the task.  
 4. Click **Delete** to remove a task.  
